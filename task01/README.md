@@ -1,4 +1,4 @@
-# Research report
+# Research Report
 ## Knowledge Representation (KR)
 
 ### Technical Summary
